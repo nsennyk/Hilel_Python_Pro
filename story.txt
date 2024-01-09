@@ -1,4 +1,6 @@
 "Embark on a Python programming challenge where you will design and implement a versatile script,
  showcasing your proficiency in handling data structures, algorithms,
  and effective problem-solving in the dynamic world of Python programming."
- "Conflict is here!.."
+
+ "We can resolve the conflict by shuffling the lines of code or changing two lines into one if we have enough experience"
+
