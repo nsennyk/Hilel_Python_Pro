@@ -1,3 +1,0 @@
-"Embark on a Python programming challenge where you will design and implement a versatile script,
-showcasing your proficiency in handling data structures,
-algorithms, and effective problem-solving in the dynamic world of Python programming."
