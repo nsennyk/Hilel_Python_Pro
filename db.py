@@ -94,6 +94,10 @@ def get_categories():
     return Category.select().order_by(Category.name)
 
 
+def get_category():
+    return Category.select().order_by(Category.id())
+
+
 def update_category(category_id, name, is_adult_only):
     category = Category.get_by_id(category_id)
 
